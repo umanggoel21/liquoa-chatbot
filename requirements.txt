@@ -1,0 +1,17 @@
+# Requirements for Lynqo AI Assistant
+streamlit>=1.22.0
+requests>=2.28.2
+python-dotenv>=1.0.0
+langdetect>=1.0.9
+googletrans==4.0.0-rc1
+gTTS>=2.3.1
+uuid>=1.30
+groq>=0.4.0
+pytest>=7.3.1
+flake8>=6.0.0
+# Speech recognition dependencies
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+pydub>=0.25.1
+
+
